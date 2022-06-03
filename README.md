@@ -14,4 +14,4 @@ This script will help you collect video metrics from all the videos in your chan
 - https://developers.google.com/youtube/v3/docs/search
 
 
-
+After API integration , We are gonna a create a AWS RDS instance and store our result there. We will also create methods for updating values and creating new records for future work on data. And finally I am using pgAdmin to view the Table stored in AWS RDS instance.
